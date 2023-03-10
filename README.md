@@ -4,6 +4,9 @@ https://github.com/innnky/so-vits-svc
 ## colab脚本 
 https://colab.research.google.com/drive/1hGt9XowC07NGmXxKNJvY5N64uMdd435M?usp=sharing
 
+## 必要模型文件及预训练模型
+https://huggingface.co/Plutoisy/pt_file/tree/main
+
 # SoftVC VITS Singing Voice Conversion
 
 
