@@ -1,0 +1,1 @@
+python inference_main.py -m "logs/44k/G_16800.pth" -c "configs/config.json" -n "10.wav" -s aris
