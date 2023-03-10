@@ -1,6 +1,6 @@
 fork form https://github.com/innnky/so-vits-svc
 
-colab脚本 https://colab.research.google.com/drive/1hGt9XowC07NGmXxKNJvY5N64uMdd435M
+colab脚本 [https://colab.research.google.com/drive/1hGt9XowC07NGmXxKNJvY5N64uMdd435M](https://colab.research.google.com/drive/19fxpo-ZoL_ShEUeZIZi6Di-YioWrEyhR?usp=sharing)
 # SoftVC VITS Singing Voice Conversion
 
 
