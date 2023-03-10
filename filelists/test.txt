@@ -1,0 +1,2 @@
+./dataset/44k/aris/16.wav
+./dataset/44k/aris/66.wav
