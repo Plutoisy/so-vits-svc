@@ -1,4 +1,4 @@
-## fork form innnky/so-vits-svc 4.0版本
+## Forked form innnky/so-vits-svc 4.0版本
 https://github.com/innnky/so-vits-svc 
 
 ## colab脚本 
